@@ -1,6 +1,7 @@
 {
     "code": 200,
     "hosts": [
-        "partner-talk.com"
+        "partner-talk.com",
+        "partnertalk.cc"
     ]
 }
